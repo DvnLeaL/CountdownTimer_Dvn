@@ -1,0 +1,1 @@
+A responsive countdown timer built with HTML, CSS, and JavaScript, featuring custom animations for a dynamic user experience as it counts down to a specified date, showcasing front-end development skills and attention to responsive design.
